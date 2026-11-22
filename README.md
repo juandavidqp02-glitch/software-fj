@@ -29,4 +29,4 @@ Genera `logs/software_fj.log` con todos los eventos y errores.
 - **Logs:** cada error y evento relevante queda en `logs/software_fj.log`.
 
 ## Integrantes
-_Juan Quiroz 
+Juan Quiroz 
